@@ -36,6 +36,18 @@ repository/
     └── diagram.png
 ```
 
+## 이미지 첨부의 예
+
+image_sample.png라는 파일을 assets 폴더에 업로드하고 다음과 같이 작성합니다.
+
+```plaintext
+![](../assets/image_sample.png)
+```
+
+그러면 다음과 같이 표시됩니다.
+
+![](../assets/image_sample.png)
+
 ## 연동의 핵심 요소
 
 | 요소 | 역할 |
